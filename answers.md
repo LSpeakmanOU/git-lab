@@ -124,3 +124,64 @@ Untracked files:
         answers.md
 
 Answer 6:
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+Answer 7:
+
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8:
+commit 928a5a505e4fea93b2db57e70041c262c5553205 (HEAD -> master)
+Author: Liam Speakman <ls173818@ohio.edu>
+Date:   Fri Sep 4 16:29:46 2020 -0400
+
+    Initial commit
+
+Answer 9:
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10: No the local readme is different from the one online.
+
+Answer 11:
+To https://github.com/LSpeakmanOU/git-lab.git
+ ! [rejected]        master -> master (fetch first)       
+error: failed to push some refs to 'https://github.com/LSpeakmanOU/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another 
+repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.        
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes the changes showed up in local README.
+
+Answer 13:
+09/04/2020  04:44 PM    <DIR>          .
+09/04/2020  04:44 PM    <DIR>          ..
+09/04/2020  04:44 PM    <DIR>          .git
+09/04/2020  04:44 PM               302 .gitignore
+09/04/2020  04:44 PM                11 README.md
+               2 File(s)            313 bytes
+               3 Dir(s)  27,237,199,872 bytes free
